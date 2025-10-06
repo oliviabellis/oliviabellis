@@ -1,4 +1,4 @@
-Hi, I'm [Oliva](https://www.linkedin.com/in/olivia-bellis-06365572/)! I am a mid-level software developer and you can follow my continuing journey and projects here.
+Hi, I'm [Oliva](https://www.linkedin.com/in/olivia-bellis-06365572/)! I am an archaeologist, GIS Professional, and software developer, and you can follow my continuing journey and projects here.
 
 My primary programming language experience is JavaScript, and I have enough HTML and CSS to do solid front-end work. Most of my work is dealing with front-end interactive development based around web map packages such as [Mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js), [Maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js), and [OpenLayers](https://github.com/openlayers/openlayers). But I have dabbled in a lot of middleware tech using AWS to help deliver content to the front-end portion. I also have skills in SQL and various database systems from Oracle to DynamoDB. Recent additions to my development experience have come from incorporating GQL into my code writing as well.
 
